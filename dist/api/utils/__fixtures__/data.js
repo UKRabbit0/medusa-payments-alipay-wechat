@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.paymentId = exports.paymentIntentId = exports.orderIdForExistingCartId = exports.existingResourceNotCapturedId = exports.existingResourceId = exports.throwingCartId = exports.nonExistingCartId = exports.existingCartIdWithCapturedStatus = exports.existingCartId = void 0;
+exports.existingCartId = "existingCartId";
+exports.existingCartIdWithCapturedStatus = "existingCartIdWithCapturedStatus";
+exports.nonExistingCartId = "nonExistingCartId";
+exports.throwingCartId = "throwingCartId";
+exports.existingResourceId = "paycol_existing";
+exports.existingResourceNotCapturedId = "paycol_existing_not_aptured";
+exports.orderIdForExistingCartId = "order-1";
+exports.paymentIntentId = "paymentIntentId";
+exports.paymentId = "paymentId";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZGF0YS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3NyYy9hcGkvdXRpbHMvX19maXh0dXJlc19fL2RhdGEudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7O0FBQWEsUUFBQSxjQUFjLEdBQUcsZ0JBQWdCLENBQUE7QUFDakMsUUFBQSxnQ0FBZ0MsR0FDM0Msa0NBQWtDLENBQUE7QUFDdkIsUUFBQSxpQkFBaUIsR0FBRyxtQkFBbUIsQ0FBQTtBQUN2QyxRQUFBLGNBQWMsR0FBRyxnQkFBZ0IsQ0FBQTtBQUVqQyxRQUFBLGtCQUFrQixHQUFHLGlCQUFpQixDQUFBO0FBQ3RDLFFBQUEsNkJBQTZCLEdBQUcsNkJBQTZCLENBQUE7QUFFN0QsUUFBQSx3QkFBd0IsR0FBRyxTQUFTLENBQUE7QUFFcEMsUUFBQSxlQUFlLEdBQUcsaUJBQWlCLENBQUE7QUFFbkMsUUFBQSxTQUFTLEdBQUcsV0FBVyxDQUFBIn0=
